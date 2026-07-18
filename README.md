@@ -19,32 +19,38 @@
 - 📘 Egresado de **Ingeniería de Software con Inteligencia Artificial** en **SENATI** (2023).
 - 💼 Experiencia práctica como Desarrollador Web Full Stack y Frontend.
 - ⚡ Aprendizaje rápido y adaptabilidad a nuevas tecnologías.
-- 🎯 Buscando oportunidades para seguir creciendo profesionalmente y aportar valor a equipos dinámicos.
 
 ---
 
 ### 🛠️ Tecnologías y Habilidades
 
-**Frontend:**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+#### **Frontend**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) **Intermedio** (75%)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) **Intermedio** (70%)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) **Básico - Intermedio** (65%)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white) **Básico - Intermedio** (60%)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) **Básico - Intermedio** (55%)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) **Básico - Intermedio** (50%)
 
-**Backend:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+#### **Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) **Intermedio** (70%)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) **Básico - Intermedio** (55%)
 
-**Otros:**
-- Bases de Datos (MySQL, SQL Server, PhpMyAdmin)
-- WordPress + Personalización
-- Git & GitHub
-- Docker & Máquinas Virtuales
-- Diseño Gráfico (Photoshop)
-- Manejo de Inteligencia Artificial
-- Desarrollo Móvil
+#### **Otras Herramientas y Tecnologías**
+- **Bases de Datos** (MySQL, SQL Server, PhpMyAdmin) — **Intermedio** (70%)
+- **WordPress + Personalización** — **Intermedio** (75%)
+- **Git & GitHub** — **Intermedio** (70%)
+- **Manejo de Inteligencia Artificial** — **Intermedio** (65%)
+- **Docker & Máquinas Virtuales** — **Básico - Intermedio** (55%)
+- **Diseño Gráfico (Photoshop)** — **Básico - Intermedio** (60%)
+- **Desarrollo Móvil** — **Básico - Intermedio** (50%)
+- **Filmora** — **Básico - Intermedio** (60%)
+- **Figma** — **Básico** (45%)
+- **Markdown** — **Básico** (50%)
+- **C++** — **Básico** (40%)
+- **JMeter** — **Básico** (40%)
+- **Prometheus** — **Básico** (35%)
+- **Grafana** — **Básico** (35%)
 
 ---
 
