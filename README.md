@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy Erick Delgado</h1>
+  <h1>¡Hola! Soy Erick Delgado</h1>
   <h3>Desarrollador Web Full Stack & Estudiante de Ingeniería de Software</h3>
 
   <img src="https://img.shields.io/badge/Perú-Lima-red" alt="Perú" />
@@ -13,16 +13,16 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-- 🎓 **Estudiante de Ingeniería de Software** en la **Universidad Tecnológica del Perú (UTP)**.
-- 📘 Egresado de **Ingeniería de Software con Inteligencia Artificial** en **SENATI** (2023).
-- 💼 Experiencia práctica como Desarrollador Web Full Stack y Frontend.
-- ⚡ Aprendizaje rápido y adaptabilidad a nuevas tecnologías.
+- **Estudiante de Ingeniería de Software** en la **Universidad Tecnológica del Perú (UTP)**.
+- Egresado de **Ingeniería de Software con Inteligencia Artificial** en **SENATI** (2023).
+- Experiencia práctica como Desarrollador Web Full Stack y Frontend.
+- Aprendizaje rápido y adaptabilidad a nuevas tecnologías.
 
 ---
 
-### 🛠️ Tecnologías y Habilidades
+### Tecnologías y Habilidades
 
 #### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) **Intermedio** (75%)  
@@ -53,7 +53,7 @@
 
 ---
 
-### 💼 Experiencia Profesional
+### Experiencia Profesional
 
 **Desarrollador Web Full Stack**  
 **FC Contadores & Asociados** | Oct 2022 - Abr 2023  
@@ -69,7 +69,7 @@
 
 ---
 
-### 📚 Educación
+### Educación
 
 - **Ingeniería de Software** – Universidad Tecnológica del Perú (en curso)
 - **Ingeniería de Software con Inteligencia Artificial** – SENATI (Egresado 2023)
@@ -77,7 +77,7 @@
 
 ---
 
-### 📜 Certificaciones
+### Certificaciones
 - Constancia de Egresado – SENATI (Ingeniería de Software con IA)
 - Certificado de Prácticas Profesionales – Neon House LED S.A.C. (320 horas)
 - Certificado de Prácticas Voluntarias – FC Contadores & Asociados (6 meses)
@@ -85,16 +85,16 @@
 
 ---
 
-### 📫 Contáctame
+### Contáctame
 
 - **Email:** [erickdaoficial@gmail.com](mailto:erickdaoficial@gmail.com)
 - **Teléfono:** +51 913 093 241
 - **LinkedIn:** (próximamente)
-- **Portafolio:** [github.com/BanyelaneYT](https://github.com/BanyelaneYT)
+- **Portafolio:** [banyelane.site.je](https://banyelane.site.je/)
 
 ---
 
 <div align="center">
-  <strong>¡Gracias por visitar mi perfil! ✨</strong><br>
+  <strong>¡Gracias por visitar mi perfil! </strong><br>
   <i>Abierto a colaboraciones y nuevas oportunidades.</i>
 </div>
